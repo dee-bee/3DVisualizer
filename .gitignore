@@ -1,0 +1,16 @@
+# Node dependencies
+node_modules/
+
+# Vite build output and test coverage
+/dist/
+/dist-ssr/
+/coverage/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Logs and OS files
+*.log
+.DS_Store
